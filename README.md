@@ -9,4 +9,5 @@
 7. git remote add origin https://github.com/Devarlashankar/github_ci-cd_practice.git 
 8. git push -u origin main --> to push the code to remote
 9. sign and authorize your account
+10. crate a github workflow
 """
